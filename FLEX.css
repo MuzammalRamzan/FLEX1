@@ -1,0 +1,33 @@
+#parent{
+    display: flex;
+    border: 1px solid black;
+    width:80%;
+    height: 80%;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+#parent1{
+    border: 1px solid black;
+    display: flex;
+    align-content: center
+    
+}
+.abc{
+background-color:black;
+width: 100px;
+height: 100px;
+margin: 2px;
+text-align: center;
+/* line-height: 15vw; */
+color: white;
+}
+.bcd{
+    background-color:blue;
+width: 100px;
+height: 100px;
+margin: 2px;
+text-align: center;
+/* line-height: 15vw; */
+color: white;
+}
